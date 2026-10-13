@@ -19,6 +19,8 @@ body {
   font-weight: 600;
   justify-content: center;
   display: flex;
+  margin-top: -20px;
+  margin-bottom: 20px;
   color: #fff;
 
 }
@@ -27,6 +29,10 @@ body {
   height: 30px;
   color: #fff;
   margin-bottom: 10px;
+
+}
+.app > svg:hover {
+  color: black;
 }
 
 .cover {
